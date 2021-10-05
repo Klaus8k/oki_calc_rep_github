@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import filedialog
 from tkinter.ttk import Combobox
 from tkinter import messagebox
-from CalcSubWindows import Calc_template as temp, Calc_OKI as OKI
+import Calc_template as temp, Calc_OKI as OKI
 
 
 # Основное окно программы

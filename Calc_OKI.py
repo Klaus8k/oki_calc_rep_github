@@ -62,8 +62,8 @@ def OKI_window():
         #     size1 = int(size_1_str.get())
         #     size2 = int(size_2_str.get())
 
-        size1 = int(size_1_str.get())
-        size2 = int(size_2_str.get())
+        size1 = int(size_1.get())
+        size2 = int(size_2.get())
 
         # количество изделий на листе СРА3
         def sum_on_list() -> object:
